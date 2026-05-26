@@ -1,0 +1,3 @@
+name=Anti-Debug Enforcer
+id=AntiDebugEnforcer
+description=Blocks -debug mode.
